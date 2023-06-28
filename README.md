@@ -1,1 +1,1 @@
-# Sangeet
+# Sangeet - Frontend music webapp
